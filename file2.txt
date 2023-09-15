@@ -1,2 +1,3 @@
 prima riga debuggata
 questa riga è stata aggiunta dal masterdopo aver creato il ramo stile
+agguinto lo stile al file 2
